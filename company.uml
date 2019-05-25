@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>com.company</OriginalElement>
+  <nodes>
+    <node x="334.0" y="0.0">com.company.Market</node>
+    <node x="692.0" y="0.0">com.company.Album</node>
+    <node x="0.0" y="455.0">com.company.User.Playlist</node>
+    <node x="0.0" y="796.0">com.company.Song</node>
+    <node x="223.0" y="796.0">com.company.Main</node>
+    <node x="10.5" y="0.0">com.company.User</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.company.User.Playlist" target="com.company.User">
+      <point x="0.0" y="-148.0" />
+      <point x="0.0" y="202.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="107.0" y="265.0" />
+  <SelectedNodes>
+    <node>com.company.Market</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+    <Category>Fields</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
